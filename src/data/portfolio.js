@@ -1,0 +1,51 @@
+export default [
+    {
+        title: 'Pimapower',
+        imgUrl: '/assets/floreciendoideas.png',
+        stack: ['Figma', 'WordPress', 'JavaScript'],
+        linkCode: 'https://www.pimapower.com/',
+        link: 'https://www.pimapower.com/',
+    },
+    {
+        title: 'Google Homepage',
+        imgUrl: '/assets/google-homepage.png',
+        stack: ['HTML', 'CSS'],
+        linkCode: 'https://github.com/Mahiuha/google-homepage',
+        link: 'https://Mahiuha.github.io/google-homepage/',
+    },
+    {
+        title: 'ALX Headphones',
+        imgUrl: '/assets/headphones-landing-page.jpg',
+        stack: ['HTML', 'CSS'],
+        linkCode: 'https://github.com/Mahiuha/alx-headphones',
+        link: 'https://Mahiuha.github.io/alx-headphones/',
+    },
+    {
+        title: 'ALX Smiling School',
+        imgUrl: '/assets/smile-school.png',
+        stack: ['HTML', 'CSS', 'Bootstrap'],
+        linkCode: 'https://github.com/Mahiuha/alx-smiling-school',
+        link: 'https://Mahiuha.github.io/alx-smiling-school/homepage.html',
+    },
+    {
+        title: 'Minimal Portfolio',
+        imgUrl: '/assets/react-minimal-portfolio.png',
+        stack: ['React', 'Vite', 'Tailwind'],
+        linkCode: 'https://github.com/Mahiuha/minimal-portfolio',
+        link: 'https://Mahiuha.com',
+    },
+    {
+        title: 'Computational Bits',
+        imgUrl: '/assets/Landing_page_2020.png',
+        stack: ['React', 'NodeJS'],
+        linkCode: 'https://github.com/Mahiuha/computational-bits',
+        link: 'https://Mahiuha.github.io/computational-bits/',
+    },
+    {
+        title: 'Simple Shell',
+        imgUrl: '/assets/simple_shell2.png',
+        stack: ['C'],
+        linkCode: 'https://github.com/Mahiuha/simple_shell',
+        link: '',
+    },
+]
