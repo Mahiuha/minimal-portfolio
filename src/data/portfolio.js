@@ -1,10 +1,10 @@
 export default [
     {
-        title: 'Pimapower',
+        title: 'ALX Checker',
         imgUrl: '/assets/floreciendoideas.png',
-        stack: ['Figma', 'WordPress', 'JavaScript'],
-        linkCode: 'https://www.pimapower.com/',
-        link: 'https://www.pimapower.com/',
+        stack: ['Python', 'Shell', 'Bash'],
+        linkCode: 'https://github.com/Mahiuha/alx-checker',
+        link: '',
     },
     {
         title: 'Google Homepage',
@@ -32,7 +32,7 @@ export default [
         imgUrl: '/assets/react-minimal-portfolio.png',
         stack: ['React', 'Vite', 'Tailwind'],
         linkCode: 'https://github.com/Mahiuha/minimal-portfolio',
-        link: 'https://Mahiuha.com',
+        link: 'https://portfolio.mahiuha.com',
     },
     {
         title: 'Computational Bits',
