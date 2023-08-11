@@ -32,7 +32,7 @@ export default [
         imgUrl: 'https://mahiuha.github.io/minimal-portfolio/assets/react-minimal-portfolio.png',
         stack: ['React', 'Vite', 'Tailwind'],
         linkCode: 'https://github.com/Mahiuha/minimal-portfolio',
-        link: 'https://portfolio.mahiuha.com',
+        link: 'https://mahiuha.github.io/minimal-portfolio/',
     },
     {
         title: 'Computational Bits',
