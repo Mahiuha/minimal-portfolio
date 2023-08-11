@@ -43,7 +43,7 @@ export default [
     },
     {
         title: 'Simple Shell',
-        imgUrl: './assets/simple_shell2.png',
+        imgUrl: 'minimal-portfolio/public/assets/simple_shell2.png',
         stack: ['C'],
         linkCode: 'https://github.com/Mahiuha/simple_shell',
         link: '',
