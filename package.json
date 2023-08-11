@@ -2,7 +2,7 @@
   "name": "minimal-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Mahiuha.github.io/minimal-portfolio",
+  "homepage": "https://www.portfolio.mahiuha.com",
   "type": "module",
   "scripts": {
     "dev": "vite",
