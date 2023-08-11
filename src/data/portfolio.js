@@ -29,7 +29,7 @@ export default [
     },
     {
         title: 'Minimal Portfolio',
-        imgUrl: '../assets/react-minimal-portfolio.png',
+        imgUrl: 'https://mahiuha.github.io/minimal-portfolio/assets/react-minimal-portfolio.png',
         stack: ['React', 'Vite', 'Tailwind'],
         linkCode: 'https://github.com/Mahiuha/minimal-portfolio',
         link: 'https://portfolio.mahiuha.com',
