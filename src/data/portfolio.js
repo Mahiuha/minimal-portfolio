@@ -1,7 +1,7 @@
 export default [
     {
         title: 'ALX Checker',
-        imgUrl: './floreciendoideas.png',
+        imgUrl: './minimal-portfolio/assets/floreciendoideas.png',
         stack: ['Python', 'Shell', 'Bash'],
         linkCode: 'https://github.com/Mahiuha/alx-checker',
         link: '',
