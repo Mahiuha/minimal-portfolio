@@ -2,7 +2,6 @@ export default [
     {
         title: 'ALX Checker',
         imgUrl: './floreciendoideas.png',
-        imgUrl: './assets/floreciendoideas.png',
         stack: ['Python', 'Shell', 'Bash'],
         linkCode: 'https://github.com/Mahiuha/alx-checker',
         link: '',
@@ -10,7 +9,6 @@ export default [
     {
         title: 'Google Homepage',
         imgUrl: './google-homepage.png',
-        imgUrl: './assets/google-homepage.png',
         stack: ['HTML', 'CSS'],
         linkCode: 'https://github.com/Mahiuha/google-homepage',
         link: 'https://Mahiuha.github.io/google-homepage/',
@@ -18,14 +16,13 @@ export default [
     {
         title: 'ALX Headphones',
         imgUrl: './headphones-landing-page.jpg',
-        imgUrl: './assets/headphones-landing-page.jpg',
         stack: ['HTML', 'CSS'],
         linkCode: 'https://github.com/Mahiuha/alx-headphones',
         link: 'https://Mahiuha.github.io/alx-headphones/',
     },
     {
         title: 'ALX Smiling School',
-        imgUrl: './assets/smile-school.png',
+        imgUrl: './smile-school.png',
         stack: ['HTML', 'CSS', 'Bootstrap'],
         linkCode: 'https://github.com/Mahiuha/alx-smiling-school',
         link: 'https://Mahiuha.github.io/alx-smiling-school/homepage.html',
@@ -39,14 +36,14 @@ export default [
     },
     {
         title: 'Computational Bits',
-        imgUrl: './assets/Landing_page_2020.png',
+        imgUrl: './Landing_page_2020.png',
         stack: ['React', 'NodeJS'],
         linkCode: 'https://github.com/Mahiuha/computational-bits',
         link: 'https://Mahiuha.github.io/computational-bits/',
     },
     {
         title: 'Simple Shell',
-        imgUrl: './assets/simple_shell2.png',
+        imgUrl: './simple_shell2.png',
         stack: ['C'],
         linkCode: 'https://github.com/Mahiuha/simple_shell',
         link: '',
