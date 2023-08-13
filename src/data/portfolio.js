@@ -1,21 +1,21 @@
 export default [
     {
         title: 'ALX Checker',
-        imgUrl: '/assets/floreciendoideas.png',
+        imgUrl: './floreciendoideas.png',
         stack: ['Python', 'Shell', 'Bash'],
         linkCode: 'https://github.com/Mahiuha/alx-checker',
         link: '',
     },
     {
         title: 'Google Homepage',
-        imgUrl: '/assets/google-homepage.png',
+        imgUrl: './google-homepage.png',
         stack: ['HTML', 'CSS'],
         linkCode: 'https://github.com/Mahiuha/google-homepage',
         link: 'https://Mahiuha.github.io/google-homepage/',
     },
     {
         title: 'ALX Headphones',
-        imgUrl: '/assets/headphones-landing-page.jpg',
+        imgUrl: './headphones-landing-page.jpg',
         stack: ['HTML', 'CSS'],
         linkCode: 'https://github.com/Mahiuha/alx-headphones',
         link: 'https://Mahiuha.github.io/alx-headphones/',
