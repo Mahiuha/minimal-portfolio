@@ -1,24 +1,24 @@
 export default [
     {
         year: 'Today',
-        title: 'Frontend Developer - Freelance (Experience)',
+        title: 'Fullstack Developer - Freelance (Experience)',
         duration: '1 years',
         details: 'Design modern & professional websites from scratch, and turn the designs into fully functional websites.',
     },
     {
-        year: '2021',
+        year: '2022',
         title: 'Fullstack Developer - Contractor (Experience)',
         duration: '2 years',
         details: 'Recruited to support the development, optimization, upgrade, monitoring, maintenance, and administration of the Socio-economic Stratification Information Web Application.',
     },
     {
-        year: '2019',
+        year: '2021',
         title: 'Full-Stack Software Engineer (Education)',
         duration: '2 years',
         details: 'Fundations of Computer Science, including Linux, data structures, algorithms, low-level and high level programming languages, databases, APIs, and DevOps.',
     },
     {
-        year: '2014',
+        year: '2017',
         title: 'Associate degree in Information Technology (Education)',
         duration: '2 years',
         details: 'Technical background using different technologies and solving real problems',
